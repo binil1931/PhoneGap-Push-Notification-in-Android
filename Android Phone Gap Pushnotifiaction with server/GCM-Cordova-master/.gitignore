@@ -1,0 +1,4 @@
+*.orig
+*.rdb
+*.orig
+.DS_Store
